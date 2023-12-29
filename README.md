@@ -45,5 +45,5 @@ License<br>
 This project is licensed under the MIT License.<br>
 
 Acknowledgments<br>
-Inspiration for project structure and design: [Provide any relevant acknowledgments]<br>
+Inspiration for project structure and design:<br>
 Feel free to explore and modify the project as needed. If you encounter any issues or have suggestions, please open an issue or contribute to the project. Thank you!
